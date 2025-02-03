@@ -72,8 +72,8 @@ GEM
       securerandom (>= 0.3)
       tzinfo (~> 2.0, >= 2.0.5)
       uri (>= 0.13.1)
-    ahoy_matey (5.2.1)
-      activesupport (>= 6.1)
+    ahoy_matey (5.3.0)
+      activesupport (>= 7)
       device_detector (>= 1)
       safely_block (>= 0.4)
     ast (2.4.2)
@@ -373,7 +373,7 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  ahoy_matey (~> 5.2)
+  ahoy_matey (~> 5.3)
   bootsnap
   brakeman
   debug
