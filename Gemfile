@@ -53,7 +53,7 @@ gem "devise-jwt", "~> 0.12.1"
 gem "pundit", "~> 2.4"
 gem "jbuilder", "~> 2.13"
 
-gem "ahoy_matey", "~> 5.2"
+gem "ahoy_matey", "~> 5.3"
 
 gem "rspec-rails", "~> 7.1"
 
